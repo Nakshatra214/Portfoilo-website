@@ -1,4 +1,4 @@
-# Kame House Portfolio
+# Nakshatra House Portfolio
 
 ![alt text](exemple.png)
 
@@ -6,12 +6,12 @@
 
 Hi everyone, thanks for being here.
 
-I am a computer science student. I made this portfolio alongside my studies to increase my web development skills and show them.
+I am a computer science and engineering student. I made this interactive 3D portfolio to showcase my web development skills.
 
-Some details about this project.
+Some details about this project:
 
-I made this project with React Three Fiber. I used helpers from Drei. I used GSAP to animate the camera. The shaders are written with GLSL. I used Blender to create the house.
+This project was built with React Three Fiber and Three.js. I used helpers from Drei and animated the camera via GSAP. Custom shaders were written using GLSL, and the house model was designed and optimized in Blender. 
 
-If you notice a bug or if you have any questions, please contact me.
+If you notice any bugs or have any questions, please contact me.
 
-**Go live :** https://maxxiiime.github.io/KameHousePortfolio/
+**Go live:** https://Nakshatra214.github.io/Portfoilo-website/
